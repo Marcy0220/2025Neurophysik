@@ -1,0 +1,402 @@
+{
+  "pattern_000.npy": {
+    "complexity_score": 0.6252624052234231,
+    "image_file": "pattern_000.png"
+  },
+  "pattern_001.npy": {
+    "complexity_score": 0.5858732928619206,
+    "image_file": "pattern_001.png"
+  },
+  "pattern_002.npy": {
+    "complexity_score": 0.6252624052234231,
+    "image_file": "pattern_002.png"
+  },
+  "pattern_003.npy": {
+    "complexity_score": 0.5858732928619206,
+    "image_file": "pattern_003.png"
+  },
+  "pattern_004.npy": {
+    "complexity_score": 0.5858732928619206,
+    "image_file": "pattern_004.png"
+  },
+  "pattern_005.npy": {
+    "complexity_score": 0.5858732928619206,
+    "image_file": "pattern_005.png"
+  },
+  "pattern_006.npy": {
+    "complexity_score": 0.6252624052234231,
+    "image_file": "pattern_006.png"
+  },
+  "pattern_007.npy": {
+    "complexity_score": 0.6252624052234231,
+    "image_file": "pattern_007.png"
+  },
+  "pattern_008.npy": {
+    "complexity_score": 0.6059162956553664,
+    "image_file": "pattern_008.png"
+  },
+  "pattern_009.npy": {
+    "complexity_score": 0.5858732928619206,
+    "image_file": "pattern_009.png"
+  },
+  "pattern_010.npy": {
+    "complexity_score": 0.6252624052234231,
+    "image_file": "pattern_010.png"
+  },
+  "pattern_011.npy": {
+    "complexity_score": 0.6252624052234231,
+    "image_file": "pattern_011.png"
+  },
+  "pattern_012.npy": {
+    "complexity_score": 0.6252624052234231,
+    "image_file": "pattern_012.png"
+  },
+  "pattern_013.npy": {
+    "complexity_score": 0.6252624052234231,
+    "image_file": "pattern_013.png"
+  },
+  "pattern_014.npy": {
+    "complexity_score": 0.5858732928619206,
+    "image_file": "pattern_014.png"
+  },
+  "pattern_015.npy": {
+    "complexity_score": 0.5435644431995964,
+    "image_file": "pattern_015.png"
+  },
+  "pattern_016.npy": {
+    "complexity_score": 0.6252624052234231,
+    "image_file": "pattern_016.png"
+  },
+  "pattern_017.npy": {
+    "complexity_score": 0.5651013322959568,
+    "image_file": "pattern_017.png"
+  },
+  "pattern_018.npy": {
+    "complexity_score": 0.5651013322959568,
+    "image_file": "pattern_018.png"
+  },
+  "pattern_019.npy": {
+    "complexity_score": 0.6252624052234231,
+    "image_file": "pattern_019.png"
+  },
+  "pattern_020.npy": {
+    "complexity_score": 0.5858732928619206,
+    "image_file": "pattern_020.png"
+  },
+  "pattern_021.npy": {
+    "complexity_score": 0.6252624052234231,
+    "image_file": "pattern_021.png"
+  },
+  "pattern_022.npy": {
+    "complexity_score": 0.5858732928619206,
+    "image_file": "pattern_022.png"
+  },
+  "pattern_023.npy": {
+    "complexity_score": 0.5435644431995964,
+    "image_file": "pattern_023.png"
+  },
+  "pattern_024.npy": {
+    "complexity_score": 0.6252624052234231,
+    "image_file": "pattern_024.png"
+  },
+  "pattern_025.npy": {
+    "complexity_score": 0.6252624052234231,
+    "image_file": "pattern_025.png"
+  },
+  "pattern_026.npy": {
+    "complexity_score": 0.6059162956553664,
+    "image_file": "pattern_026.png"
+  },
+  "pattern_027.npy": {
+    "complexity_score": 0.5212220180699689,
+    "image_file": "pattern_027.png"
+  },
+  "pattern_028.npy": {
+    "complexity_score": 0.6252624052234231,
+    "image_file": "pattern_028.png"
+  },
+  "pattern_029.npy": {
+    "complexity_score": 0.6252624052234231,
+    "image_file": "pattern_029.png"
+  },
+  "pattern_030.npy": {
+    "complexity_score": 0.5544309233552464,
+    "image_file": "pattern_030.png"
+  },
+  "pattern_031.npy": {
+    "complexity_score": 0.6156745938434387,
+    "image_file": "pattern_031.png"
+  },
+  "pattern_032.npy": {
+    "complexity_score": 0.6059162956553664,
+    "image_file": "pattern_032.png"
+  },
+  "pattern_033.npy": {
+    "complexity_score": 0.6059162956553664,
+    "image_file": "pattern_033.png"
+  },
+  "pattern_034.npy": {
+    "complexity_score": 0.6252624052234231,
+    "image_file": "pattern_034.png"
+  },
+  "pattern_035.npy": {
+    "complexity_score": 0.5959838258557496,
+    "image_file": "pattern_035.png"
+  },
+  "pattern_036.npy": {
+    "complexity_score": 0.6059162956553664,
+    "image_file": "pattern_036.png"
+  },
+  "pattern_037.npy": {
+    "complexity_score": 0.5858732928619206,
+    "image_file": "pattern_037.png"
+  },
+  "pattern_038.npy": {
+    "complexity_score": 0.6252624052234231,
+    "image_file": "pattern_038.png"
+  },
+  "pattern_039.npy": {
+    "complexity_score": 0.6252624052234231,
+    "image_file": "pattern_039.png"
+  },
+  "pattern_040.npy": {
+    "complexity_score": 0.6252624052234231,
+    "image_file": "pattern_040.png"
+  },
+  "pattern_041.npy": {
+    "complexity_score": 0.6252624052234231,
+    "image_file": "pattern_041.png"
+  },
+  "pattern_042.npy": {
+    "complexity_score": 0.4488644887230295,
+    "image_file": "pattern_042.png"
+  },
+  "pattern_043.npy": {
+    "complexity_score": 0.5435644431995964,
+    "image_file": "pattern_043.png"
+  },
+  "pattern_044.npy": {
+    "complexity_score": 0.6252624052234231,
+    "image_file": "pattern_044.png"
+  },
+  "pattern_045.npy": {
+    "complexity_score": 0.6252624052234231,
+    "image_file": "pattern_045.png"
+  },
+  "pattern_046.npy": {
+    "complexity_score": 0.6059162956553664,
+    "image_file": "pattern_046.png"
+  },
+  "pattern_047.npy": {
+    "complexity_score": 0.6252624052234231,
+    "image_file": "pattern_047.png"
+  },
+  "pattern_048.npy": {
+    "complexity_score": 0.5435644431995964,
+    "image_file": "pattern_048.png"
+  },
+  "pattern_049.npy": {
+    "complexity_score": 0.6252624052234231,
+    "image_file": "pattern_049.png"
+  },
+  "pattern_050.npy": {
+    "complexity_score": 0.6252624052234231,
+    "image_file": "pattern_050.png"
+  },
+  "pattern_051.npy": {
+    "complexity_score": 0.6059162956553664,
+    "image_file": "pattern_051.png"
+  },
+  "pattern_052.npy": {
+    "complexity_score": 0.6252624052234231,
+    "image_file": "pattern_052.png"
+  },
+  "pattern_053.npy": {
+    "complexity_score": 0.6252624052234231,
+    "image_file": "pattern_053.png"
+  },
+  "pattern_054.npy": {
+    "complexity_score": 0.6252624052234231,
+    "image_file": "pattern_054.png"
+  },
+  "pattern_055.npy": {
+    "complexity_score": 0.5858732928619206,
+    "image_file": "pattern_055.png"
+  },
+  "pattern_056.npy": {
+    "complexity_score": 0.6059162956553664,
+    "image_file": "pattern_056.png"
+  },
+  "pattern_057.npy": {
+    "complexity_score": 0.6252624052234231,
+    "image_file": "pattern_057.png"
+  },
+  "pattern_058.npy": {
+    "complexity_score": 0.5858732928619206,
+    "image_file": "pattern_058.png"
+  },
+  "pattern_059.npy": {
+    "complexity_score": 0.6252624052234231,
+    "image_file": "pattern_059.png"
+  },
+  "pattern_060.npy": {
+    "complexity_score": 0.6059162956553664,
+    "image_file": "pattern_060.png"
+  },
+  "pattern_061.npy": {
+    "complexity_score": 0.6059162956553664,
+    "image_file": "pattern_061.png"
+  },
+  "pattern_062.npy": {
+    "complexity_score": 0.6252624052234231,
+    "image_file": "pattern_062.png"
+  },
+  "pattern_063.npy": {
+    "complexity_score": 0.6059162956553664,
+    "image_file": "pattern_063.png"
+  },
+  "pattern_064.npy": {
+    "complexity_score": 0.6156745938434387,
+    "image_file": "pattern_064.png"
+  },
+  "pattern_065.npy": {
+    "complexity_score": 0.6252624052234231,
+    "image_file": "pattern_065.png"
+  },
+  "pattern_066.npy": {
+    "complexity_score": 0.5212220180699689,
+    "image_file": "pattern_066.png"
+  },
+  "pattern_067.npy": {
+    "complexity_score": 0.5858732928619206,
+    "image_file": "pattern_067.png"
+  },
+  "pattern_068.npy": {
+    "complexity_score": 0.5858732928619206,
+    "image_file": "pattern_068.png"
+  },
+  "pattern_069.npy": {
+    "complexity_score": 0.6252624052234231,
+    "image_file": "pattern_069.png"
+  },
+  "pattern_070.npy": {
+    "complexity_score": 0.6252624052234231,
+    "image_file": "pattern_070.png"
+  },
+  "pattern_071.npy": {
+    "complexity_score": 0.5435644431995964,
+    "image_file": "pattern_071.png"
+  },
+  "pattern_072.npy": {
+    "complexity_score": 0.6252624052234231,
+    "image_file": "pattern_072.png"
+  },
+  "pattern_073.npy": {
+    "complexity_score": 0.6252624052234231,
+    "image_file": "pattern_073.png"
+  },
+  "pattern_074.npy": {
+    "complexity_score": 0.6059162956553664,
+    "image_file": "pattern_074.png"
+  },
+  "pattern_075.npy": {
+    "complexity_score": 0.6059162956553664,
+    "image_file": "pattern_075.png"
+  },
+  "pattern_076.npy": {
+    "complexity_score": 0.5858732928619206,
+    "image_file": "pattern_076.png"
+  },
+  "pattern_077.npy": {
+    "complexity_score": 0.6252624052234231,
+    "image_file": "pattern_077.png"
+  },
+  "pattern_078.npy": {
+    "complexity_score": 0.6059162956553664,
+    "image_file": "pattern_078.png"
+  },
+  "pattern_079.npy": {
+    "complexity_score": 0.6156745938434387,
+    "image_file": "pattern_079.png"
+  },
+  "pattern_080.npy": {
+    "complexity_score": 0.6059162956553664,
+    "image_file": "pattern_080.png"
+  },
+  "pattern_081.npy": {
+    "complexity_score": 0.6059162956553664,
+    "image_file": "pattern_081.png"
+  },
+  "pattern_082.npy": {
+    "complexity_score": 0.5651013322959568,
+    "image_file": "pattern_082.png"
+  },
+  "pattern_083.npy": {
+    "complexity_score": 0.5651013322959568,
+    "image_file": "pattern_083.png"
+  },
+  "pattern_084.npy": {
+    "complexity_score": 0.5858732928619206,
+    "image_file": "pattern_084.png"
+  },
+  "pattern_085.npy": {
+    "complexity_score": 0.6252624052234231,
+    "image_file": "pattern_085.png"
+  },
+  "pattern_086.npy": {
+    "complexity_score": 0.6059162956553664,
+    "image_file": "pattern_086.png"
+  },
+  "pattern_087.npy": {
+    "complexity_score": 0.5435644431995964,
+    "image_file": "pattern_087.png"
+  },
+  "pattern_088.npy": {
+    "complexity_score": 0.6059162956553664,
+    "image_file": "pattern_088.png"
+  },
+  "pattern_089.npy": {
+    "complexity_score": 0.6252624052234231,
+    "image_file": "pattern_089.png"
+  },
+  "pattern_090.npy": {
+    "complexity_score": 0.6252624052234231,
+    "image_file": "pattern_090.png"
+  },
+  "pattern_091.npy": {
+    "complexity_score": 0.5435644431995964,
+    "image_file": "pattern_091.png"
+  },
+  "pattern_092.npy": {
+    "complexity_score": 0.6252624052234231,
+    "image_file": "pattern_092.png"
+  },
+  "pattern_093.npy": {
+    "complexity_score": 0.6252624052234231,
+    "image_file": "pattern_093.png"
+  },
+  "pattern_094.npy": {
+    "complexity_score": 0.6252624052234231,
+    "image_file": "pattern_094.png"
+  },
+  "pattern_095.npy": {
+    "complexity_score": 0.6252624052234231,
+    "image_file": "pattern_095.png"
+  },
+  "pattern_096.npy": {
+    "complexity_score": 0.5858732928619206,
+    "image_file": "pattern_096.png"
+  },
+  "pattern_097.npy": {
+    "complexity_score": 0.6252624052234231,
+    "image_file": "pattern_097.png"
+  },
+  "pattern_098.npy": {
+    "complexity_score": 0.6252624052234231,
+    "image_file": "pattern_098.png"
+  },
+  "pattern_099.npy": {
+    "complexity_score": 0.6252624052234231,
+    "image_file": "pattern_099.png"
+  }
+}
